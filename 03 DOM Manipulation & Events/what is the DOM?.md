@@ -1,4 +1,4 @@
-## DOCUMENT OBJECT MODEL
+# DOCUMENT OBJECT MODEL
 
 - Tree of nodes/elements created by the browser
 
