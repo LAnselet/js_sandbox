@@ -84,3 +84,7 @@ if (age <= 16 || age > 65) {
 
 // TERNARY OPERATOR
 console.log(id === 100 ? 'CORRECT' : 'INCORRECT');
+
+// WITHOUT BRACES
+if (id === 100) console.log('CORRECT');
+else console.log('INCORRECT');
